@@ -1,16 +1,7 @@
-
-
-# gatsby-starter
-
+#+OPTIONS: toc:nil
+* gatsby-starter
 This is my basic javascript/jsx/react configuration for beginning a gatsby project
-
-
-## Install dependencies
-
+** Install dependencies
 npm i
-
-
-## Develop
-
+** Develop
 npm run develop
-
