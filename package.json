@@ -7,7 +7,7 @@
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
-    "prettier-watch": "onchange '**/*.js' -- prettier --write {{changed}}",
+    "prettier-watch": "onchange '**/*.js' -- prettier --trailing-comma es5 --write {{changed}}",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
