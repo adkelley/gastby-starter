@@ -13,7 +13,7 @@
     "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
   },
   "dependencies": {
-    "gatsby": "^2.1.4",
+    "gatsby": "^2.3.4",
     "react": "^16.8.2",
     "react-dom": "^16.8.2"
   },
@@ -29,7 +29,9 @@
     "eslint-config-prettier": "^4.0.0",
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.12.4",
+    "graphql": "^0.13.2",
     "onchange": "^5.2.0",
-    "prettier": "1.16.4"
+    "prettier": "1.16.4",
+    "typescript": "^3.4.1"
   }
 }
